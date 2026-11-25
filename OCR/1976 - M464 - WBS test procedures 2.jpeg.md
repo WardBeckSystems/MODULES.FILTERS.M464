@@ -101,7 +101,7 @@ kHz,
 
 ```json
 {
- "file": "Modules/FILTERS/M464/PHOTOS/1976 - M464 - WBS test procedures 2.jpeg",
+ "file": "Modules/FILTERS/M464/MANUALS/1976 - M464 - WBS test procedures 2.jpeg",
  "sha256": "cdabf55481b390583872dc4d519010c542e011bb4f085a376140a201c56c52e2",
  "kind": "module",
  "models": [

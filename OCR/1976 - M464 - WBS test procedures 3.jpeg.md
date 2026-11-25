@@ -53,7 +53,7 @@ of
 
 ```json
 {
- "file": "Modules/FILTERS/M464/PHOTOS/1976 - M464 - WBS test procedures 3.jpeg",
+ "file": "Modules/FILTERS/M464/MANUALS/1976 - M464 - WBS test procedures 3.jpeg",
  "sha256": "a1f1dfdee09e63ddf5915e69ebdd95e03460fc2d525c7a3436c501d4e7d84993",
  "kind": "module",
  "models": [

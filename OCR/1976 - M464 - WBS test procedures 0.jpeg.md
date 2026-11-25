@@ -26,7 +26,7 @@ High/Low Pass Filter
 
 ```json
 {
- "file": "Modules/FILTERS/M464/PHOTOS/1976 - M464 - WBS test procedures 0.jpeg",
+ "file": "Modules/FILTERS/M464/MANUALS/1976 - M464 - WBS test procedures 0.jpeg",
  "sha256": "44d753b854fae90a18d25009b192515057e1c127f69f601085441888f48db0dc",
  "kind": "module",
  "models": [

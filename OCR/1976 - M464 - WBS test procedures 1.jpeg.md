@@ -65,7 +65,7 @@ ISSUE APRIL/83
 
 ```json
 {
- "file": "Modules/FILTERS/M464/PHOTOS/1976 - M464 - WBS test procedures 1.jpeg",
+ "file": "Modules/FILTERS/M464/MANUALS/1976 - M464 - WBS test procedures 1.jpeg",
  "sha256": "fb42bf86dc135d98dc7403de2d1c5beca3513ecf69fc4a62be494361b90a6a5d",
  "kind": "module",
  "models": [
