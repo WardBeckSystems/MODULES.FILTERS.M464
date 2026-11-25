@@ -1,0 +1,124 @@
+{
+ "code": "M464",
+ "connector": "RTO-144",
+ "type": "FILTER",
+ "series": "L-EFFECT",
+ "contacts": "22 contacts",
+ "verified": null,
+ "derived": false,
+ "variant_of": null,
+ "pins": [
+  {
+   "pin": "1",
+   "signal": "FILTER IN LEFT",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M464/M464.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "2",
+   "signal": "FILTER IN LEFT",
+   "kind": "in",
+   "pair": "A1",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M464/M464.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "15",
+   "signal": "FILTER OUT RIGHT",
+   "kind": "out",
+   "pair": "A2",
+   "polarity": "+",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M464/M464.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "16",
+   "signal": "FILTER OUT RIGHT",
+   "kind": "out",
+   "pair": "A2",
+   "polarity": "-",
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M464/M464.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "19",
+   "signal": "-25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M464/M464.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "20",
+   "signal": "COMMON",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M464/M464.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "21",
+   "signal": "+25 V",
+   "kind": "power",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M464/M464.rto144.json",
+   "page": 1
+  },
+  {
+   "pin": "22",
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "pair": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": "rto-144",
+   "file": "Engineering/RTO-144/M464/M464.rto144.json",
+   "page": 1
+  }
+ ],
+ "straps": [],
+ "power": [
+  {
+   "rail": "VEE-AUDIO",
+   "style": "NEW",
+   "volts": -25,
+   "max_a": 0.2,
+   "supply": "19",
+   "ground": "20",
+   "link": 2
+  },
+  {
+   "rail": "VCC-AUDIO",
+   "style": "NEW",
+   "volts": 25,
+   "max_a": 0.2,
+   "supply": "21",
+   "ground": "20",
+   "link": 1
+  }
+ ],
+ "sources": [
+  "Engineering/RTO-144/M464/M464.rto144.json"
+ ]
+}
