@@ -1,0 +1,10 @@
+/home/anthony/Documents/GitProjects/WBSps.ca/2026/Modules/FILTERS/M464/SOFTWARE/plugin/target/release/deps/copypasta-2104be2b2f301f60.d: /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/lib.rs /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/common.rs /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/x11_clipboard.rs /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/nop_clipboard.rs
+
+/home/anthony/Documents/GitProjects/WBSps.ca/2026/Modules/FILTERS/M464/SOFTWARE/plugin/target/release/deps/libcopypasta-2104be2b2f301f60.rlib: /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/lib.rs /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/common.rs /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/x11_clipboard.rs /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/nop_clipboard.rs
+
+/home/anthony/Documents/GitProjects/WBSps.ca/2026/Modules/FILTERS/M464/SOFTWARE/plugin/target/release/deps/libcopypasta-2104be2b2f301f60.rmeta: /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/lib.rs /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/common.rs /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/x11_clipboard.rs /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/nop_clipboard.rs
+
+/home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/lib.rs:
+/home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/common.rs:
+/home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/x11_clipboard.rs:
+/home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/nop_clipboard.rs:

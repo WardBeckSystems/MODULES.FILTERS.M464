@@ -1,0 +1,45 @@
+{
+ "drawing": "Modules/FILTERS/M464/MANUALS/1976 - M464 - HP LP Filter (2).pdf",
+ "page": 15,
+ "version": 1,
+ "trace": "_traces/53f81cb8c9164390-p15.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1452, 2000],
+  "mm": [313.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "15", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.3, 8.2, 308.3, 429.0],
+ "outlines": {
+  "line": {"rings": 128, "straight": {"n": 1494, "mm": 3093.1}, "curved": {"n": 249, "mm": 335.3}},
+  "text": {"rings": 69, "straight": {"n": 434, "mm": 436.8}, "curved": {"n": 67, "mm": 96.0}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 10,
+  "lines": [
+   {"mm": [79.7, 409.1, 126.5, 414.6], "text": "STEM LTD"},
+   {"mm": [114.4, 280.5, 193.4, 287.7], "text": "109 AMPLIF IER SERIES"},
+   {"mm": [267.5, 53.8, 287.1, 62.2], "text": "ps"},
+   {"mm": [256.9, 43.0, 277.4, 53.8], "text": "BS"},
+   {"mm": [236.0, 22.0, 253.3, 28.7], "text": "tp"},
+   {"mm": [229.3, 15.3, 248.9, 22.0], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 314 × 432 mm, 1452 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–308 mm across, 8–429 mm up",
+  "- **Outlines:** line 128 rings, 1,494 straight (3,093 mm) / 249 curved (335 mm); text 69 rings, 434 straight (437 mm) / 67 curved (96.0 mm)",
+  "- **Words (OCR):** 10 in 6 lines: STEM LTD · 109 AMPLIF IER SERIES · ps · BS · tp · ht"
+ ]
+}

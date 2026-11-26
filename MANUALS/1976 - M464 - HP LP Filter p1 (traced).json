@@ -1,0 +1,59 @@
+{
+ "drawing": "Modules/FILTERS/M464/MANUALS/1976 - M464 - HP LP Filter.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/cfd931254eafe4e9-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1431, 2000],
+  "mm": [309.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [46.0, 2.4, 309.0, 431.8],
+ "outlines": {
+  "line": {"rings": 24, "straight": {"n": 1518, "mm": 5592.7}, "curved": {"n": 77, "mm": 123.5}},
+  "text": {"rings": 54, "straight": {"n": 1261, "mm": 4236.8}, "curved": {"n": 118, "mm": 205.3}},
+  "tb": {"rings": 5, "straight": {"n": 10, "mm": 6.4}, "curved": {"n": 5, "mm": 4.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [175.7, 394.2, 269.7, 420.4], "text": "WBS"},
+   {"mm": [174.7, 356.5, 269.0, 380.7], "text": "WBS"},
+   {"mm": [173.8, 318.2, 268.6, 342.7], "text": "WBS"},
+   {"mm": [175.1, 279.4, 268.4, 303.1], "text": "WBS"},
+   {"mm": [174.7, 238.8, 268.6, 263.7], "text": "WBS"},
+   {"mm": [173.8, 200.6, 268.6, 225.0], "text": "WBS"},
+   {"mm": [173.8, 161.1, 267.9, 186.2], "text": "WBS"},
+   {"mm": [173.8, 123.3, 267.9, 147.3], "text": "WBS"},
+   {"mm": [212.7, 97.2, 230.6, 105.3], "text": "M464"},
+   {"mm": [177.5, 87.4, 249.8, 95.1], "text": "HIGIPass-LO PASS"},
+   {"mm": [252.0, 88.5, 276.8, 95.5], "text": "FlLTER"},
+   {"mm": [175.3, 45.1, 268.4, 69.6], "text": "WBS"},
+   {"mm": [173.8, 6.7, 267.9, 30.7], "text": "WBS"}
+  ]
+ },
+ "title_block": {
+  "mm": [167.6, 0.0, 275.7, 429.1],
+  "from": "title-block words (training set)",
+  "text": ["WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "WBS", "M464", "HIGIPass-LO PASS", "FlLTER", "WBS", "WBS"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 309 × 432 mm, 1431 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 46–309 mm across, 2–432 mm up",
+  "- **Outlines:** line 24 rings, 1,518 straight (5,593 mm) / 77 curved (124 mm); text 54 rings, 1,261 straight (4,237 mm) / 118 curved (205 mm); tb 5 rings, 10 straight (6.4 mm) / 5 curved (4.7 mm)",
+  "- **Words (OCR):** 14 in 13 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M464 · HIGIPass-LO PASS · FlLTER · WBS",
+  "- **Title block:** (168, 0)–(276, 429) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M464 · HIGIPass-LO PASS · FlLTER · WBS · WBS"
+ ]
+}

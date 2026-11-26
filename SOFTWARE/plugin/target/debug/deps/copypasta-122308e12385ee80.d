@@ -1,0 +1,10 @@
+/home/anthony/Documents/GitProjects/WBSps.ca/2026/Modules/FILTERS/M464/SOFTWARE/plugin/target/debug/deps/copypasta-122308e12385ee80.d: /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/lib.rs /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/common.rs /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/x11_clipboard.rs /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/nop_clipboard.rs
+
+/home/anthony/Documents/GitProjects/WBSps.ca/2026/Modules/FILTERS/M464/SOFTWARE/plugin/target/debug/deps/libcopypasta-122308e12385ee80.rlib: /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/lib.rs /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/common.rs /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/x11_clipboard.rs /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/nop_clipboard.rs
+
+/home/anthony/Documents/GitProjects/WBSps.ca/2026/Modules/FILTERS/M464/SOFTWARE/plugin/target/debug/deps/libcopypasta-122308e12385ee80.rmeta: /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/lib.rs /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/common.rs /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/x11_clipboard.rs /home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/nop_clipboard.rs
+
+/home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/lib.rs:
+/home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/common.rs:
+/home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/x11_clipboard.rs:
+/home/anthony/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/copypasta-0.10.2/src/nop_clipboard.rs:

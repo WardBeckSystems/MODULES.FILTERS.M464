@@ -1,0 +1,47 @@
+{
+ "drawing": "Modules/FILTERS/M464/MANUALS/1976 - M464 - HP LP Filter.pdf",
+ "page": 2,
+ "version": 1,
+ "trace": "_traces/cfd931254eafe4e9-p2.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1431, 2000],
+  "mm": [309.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "2", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 5.0, 302.7, 431.4],
+ "outlines": {
+  "line": {"rings": 103, "straight": {"n": 1513, "mm": 3283.5}, "curved": {"n": 254, "mm": 353.1}},
+  "text": {"rings": 166, "straight": {"n": 1997, "mm": 2454.4}, "curved": {"n": 452, "mm": 694.4}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [107.3, 409.1, 268.1, 419.9], "text": "WAAD-BECK SYSTEMS LTD"},
+   {"mm": [39.3, 401.6, 267.1, 416.2], "text": "WES 841 PAOGRFSS AVENUE; SCAADOROUGH, ONTAAIO M1H2x4"},
+   {"mm": [106.0, 398.6, 155.2, 403.8], "text": "teLEX: 06-23469"},
+   {"mm": [193.4, 397.5, 267.1, 403.4], "text": "TFLEPHONE: 4181438-6550"},
+   {"mm": [124.1, 246.6, 175.5, 259.5], "text": "M464"},
+   {"mm": [84.2, 233.6, 185.7, 242.4], "text": "HIGH PASS' LOw PASS"},
+   {"mm": [188.9, 233.6, 215.9, 242.2], "text": "FILTER"},
+   {"mm": [63.9, 16.0, 145.5, 21.3], "text": "(IFVIGN AND MANUFACTURE DF"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 309 × 432 mm, 1431 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–303 mm across, 5–431 mm up",
+  "- **Outlines:** line 103 rings, 1,513 straight (3,284 mm) / 254 curved (353 mm); text 166 rings, 1,997 straight (2,454 mm) / 452 curved (694 mm)",
+  "- **Words (OCR):** 15 in 8 lines: WAAD-BECK SYSTEMS LTD · WES 841 PAOGRFSS AVENUE; SCAADOROUGH, ONTAAIO M1H2x4 · teLEX: 06-23469 · TFLEPHONE: 4181438-6550 · M464 · HIGH PASS' LOw PASS · FILTER · (IFVIGN AND MANUFACTURE DF"
+ ]
+}

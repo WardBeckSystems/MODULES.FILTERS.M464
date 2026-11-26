@@ -1,0 +1,56 @@
+{
+ "drawing": "Modules/FILTERS/M464/MANUALS/1976 - M464 - HP LP Filter (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/53f81cb8c9164390-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1431, 2000],
+  "mm": [309.0, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [46.0, 2.4, 309.0, 431.8],
+ "outlines": {
+  "line": {"rings": 76, "straight": {"n": 2787, "mm": 9819.3}, "curved": {"n": 198, "mm": 334.9}},
+  "text": {"rings": 7, "straight": {"n": 20, "mm": 13.5}, "curved": {"n": 3, "mm": 2.5}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [217.4, 404.4, 234.3, 407.6], "w": 16.8, "h": 3.2, "from": "ring", "words": ["'\\NBS"]},
+  {"mm": [217.0, 365.5, 234.3, 368.5], "w": 17.3, "h": 3.0, "from": "ring", "words": ["'\\NBS"]},
+  {"mm": [217.0, 287.4, 234.0, 290.4], "w": 17.1, "h": 3.0, "from": "ring", "words": ["'\\NBS"]}
+ ],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [177.3, 396.2, 267.9, 415.4], "text": "'\\NBS"},
+   {"mm": [176.8, 357.3, 267.1, 376.5], "text": "'\\NBS"},
+   {"mm": [176.4, 317.8, 267.1, 337.0], "text": "'\\NBS"},
+   {"mm": [176.4, 278.9, 266.6, 298.1], "text": "'\\NBS"},
+   {"mm": [176.0, 239.6, 266.2, 258.8], "text": "'\\NBS"},
+   {"mm": [175.7, 201.0, 238.1, 220.2], "text": "'\\NB"},
+   {"mm": [175.3, 162.1, 226.5, 181.3], "text": "'\\NB"},
+   {"mm": [174.9, 122.8, 265.6, 142.0], "text": "'\\NBS"},
+   {"mm": [174.0, 45.3, 283.0, 64.5], "text": "'\\NBS ps"},
+   {"mm": [253.3, 42.3, 273.3, 52.9], "text": "BS"},
+   {"mm": [232.5, 21.6, 249.6, 28.3], "text": "tp"},
+   {"mm": [174.2, 6.5, 245.0, 25.7], "text": "'\\NB ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 309 × 432 mm, 1431 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 46–309 mm across, 2–432 mm up",
+  "- **Outlines:** line 76 rings, 2,787 straight (9,819 mm) / 198 curved (335 mm); text 7 rings, 20 straight (13.5 mm) / 3 curved (2.5 mm)",
+  "- **Closed boxes:** 3; named: '\\NBS; '\\NBS; '\\NBS",
+  "- **Words (OCR):** 14 in 12 lines: '\\NBS · '\\NBS · '\\NBS · '\\NBS · '\\NBS · '\\NB · '\\NB · '\\NBS · '\\NBS ps · BS · tp · '\\NB ht"
+ ]
+}

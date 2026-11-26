@@ -1,0 +1,42 @@
+{
+ "drawing": "Modules/FILTERS/M464/MANUALS/1976 - M464 - HP LP Filter.pdf",
+ "page": 15,
+ "version": 1,
+ "trace": "_traces/cfd931254eafe4e9-p15.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1452, 2000],
+  "mm": [313.5, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "15", "pages": "27"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.3, 8.2, 308.3, 429.0],
+ "outlines": {
+  "line": {"rings": 88, "straight": {"n": 1075, "mm": 2606.6}, "curved": {"n": 165, "mm": 207.4}},
+  "text": {"rings": 68, "straight": {"n": 584, "mm": 708.2}, "curved": {"n": 126, "mm": 193.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 6,
+  "lines": [
+   {"mm": [14.0, 409.8, 129.1, 416.7], "text": "WAAD-BECK SYSTEMS LTD_"},
+   {"mm": [105.1, 280.7, 194.7, 289.4], "text": "4-109 AMPLIFIER SERIES"},
+   {"mm": [140.8, 8.2, 161.9, 15.2], "text": "4-109"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 314 × 432 mm, 1452 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 1–308 mm across, 8–429 mm up",
+  "- **Outlines:** line 88 rings, 1,075 straight (2,607 mm) / 165 curved (207 mm); text 68 rings, 584 straight (708 mm) / 126 curved (193 mm)",
+  "- **Words (OCR):** 6 in 3 lines: WAAD-BECK SYSTEMS LTD_ · 4-109 AMPLIFIER SERIES · 4-109"
+ ]
+}
