@@ -1,0 +1,90 @@
+{
+ "index": 0,
+ "code": "M464",
+ "title": "M404 / M464 Cutoff Filter",
+ "category": "Filters",
+ "description": "18 dB/oct cascaded active filters with Hammond transformer core saturation",
+ "circuitSummary": "Three-pole cascaded Sallen-Key LC network with selectable cutoff corners. Features input buffer, high-pass stage, low-pass stage, and mu-metal shielded output transformer.",
+ "nodes": [
+  {
+   "id": "in",
+   "label": "Balanced In",
+   "type": "input",
+   "x": 50,
+   "y": 80
+  },
+  {
+   "id": "t1",
+   "label": "T1 Input Xfmr",
+   "type": "transformer",
+   "x": 160,
+   "y": 80
+  },
+  {
+   "id": "hpf",
+   "label": "18dB/oct HPF",
+   "type": "filter",
+   "x": 300,
+   "y": 80
+  },
+  {
+   "id": "lpf",
+   "label": "18dB/oct LPF",
+   "type": "filter",
+   "x": 450,
+   "y": 80
+  },
+  {
+   "id": "iron",
+   "label": "Iron Saturation",
+   "type": "nonlinear",
+   "x": 590,
+   "y": 80
+  },
+  {
+   "id": "out",
+   "label": "Console Out",
+   "type": "output",
+   "x": 710,
+   "y": 80
+  }
+ ],
+ "wires": [
+  {
+   "from": "in",
+   "to": "t1"
+  },
+  {
+   "from": "t1",
+   "to": "hpf"
+  },
+  {
+   "from": "hpf",
+   "to": "lpf"
+  },
+  {
+   "from": "lpf",
+   "to": "iron"
+  },
+  {
+   "from": "iron",
+   "to": "out"
+  }
+ ],
+ "clap": {
+  "id": "ca.wbsps.m404_m464_filter",
+  "name": "Ward-Beck M404/M464 Cutoff Filters",
+  "strings": [
+   "ca.wbsps.m404_m464_filter",
+   "Ward-Beck M404/M464 Cutoff Filters",
+   "Ward-Beck Systems Preservation Society",
+   "https://wbsps.ca",
+   "",
+   "https://wbsps.ca/contact",
+   "1.0.0",
+   "Classic 18 dB/oct high-pass and low-pass cutoff filter with transformer iron saturation"
+  ]
+ },
+ "suite_index": 0,
+ "source": "2030.env/vst/M404_M464_Filter"
+}
