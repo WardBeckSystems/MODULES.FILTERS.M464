@@ -1,0 +1,18 @@
+# Copyright (c) 2026 Ward-Beck Systems (Ward-Beck.com - Ward-Beck.ca). All rights reserved.
+# The module's plugin (SOFTWARE/plugin) as VST3 + CLAP for Windows, macOS and Linux, published as a release:
+# push a tag plugin-v<version>, or run it by hand (a "plugin-nightly" pre-release).
+name: plugin
+
+on:
+  push:
+    tags: ['plugin-v*']
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  plugin:
+    uses: WardBeckSystems/Ward-Beck-Plugin-Core/.github/workflows/plugin-release.yml@main
+    with:
+      crate: wbs-m464
