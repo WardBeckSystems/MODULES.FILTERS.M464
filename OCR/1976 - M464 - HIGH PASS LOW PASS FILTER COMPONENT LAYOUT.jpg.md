@@ -15,6 +15,18 @@ Wiki page: [M464](../../../../PAGES/M464.md)
 
 - **1976** (labelled): `DATE DEC 76` — …12564. 321 USED OM MatL . WBS WAAD-BECK BybTeMB LTD DRN GEB DATE DEC 76 CKD. DEA ISCALE TOLS _ ANG _ FIMISH M464 HiGh PASS Low PASS…
 
+## Vectors (traced)
+
+- **Sheet:** component layout, size B (assumed) 432 × 384 mm, 2000 × 1779 px traced (0.216 mm/px)
+- **Ink extent:** 0–432 mm across, 0–384 mm up
+- **Outlines:** line 688 rings, 6,534 straight (15,649 mm) / 1,356 curved (1,325 mm); text 1,368 rings, 10,452 straight (9,737 mm) / 3,120 curved (3,542 mm); tb 826 rings, 4,658 straight (5,446 mm) / 1,169 curved (1,251 mm)
+- **Circles and arcs:** 2 circles, 0 arcs; largest r 10.3 @ (171.4, 282.2), r 4.6 @ (314.7, 308.8)
+- **Closed boxes:** 60 (46 in the title block)
+- **Words (OCR):** 191 in 167 lines: Rks 22k · R9 ZSK · c623/0 · Riijek · s3/ecr : 70323/0 · Re JSK · RI6 Ekc · ~533/10 · Ls0p · Jek · cil- · ~RI3JEk
+- **Title block:** (63, 2)–(390, 269) mm: WBS · -005 · DSI · 22 · LED · LM3o| · Lm3o| · Sw+ · FLv//7 · R36 JM · 31B · 2E1 · R33560 · 9b · ARE to · R354M · R34 "k2 · R28 IOk · 02 · PcB · R37 @k · 2E30 · 2E7 · R4o 22k · soR?7 · iok · C19A · SOL
+
+Every curve, box, word and wire group: [1976 - M464 - HIGH PASS LOW PASS FILTER COMPONENT LAYOUT (traced).json](../SCHEMATICS/1976%20-%20M464%20-%20HIGH%20PASS%20LOW%20PASS%20FILTER%20COMPONENT%20LAYOUT%20%28traced%29.json) (the CAD file: `1976 - M464 - HIGH PASS LOW PASS FILTER COMPONENT LAYOUT (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 3 words corrected)

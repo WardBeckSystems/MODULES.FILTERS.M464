@@ -39,7 +39,7 @@ Wiki page: [M464](../../../../PAGES/M464.md)
 - **Title block:** (268, 17)–(380, 53) mm: WBS WAAD-BeCk · DRN_ DNM · M464 · DDATE FEB 77 · HiGh PASS LOw PASS FiLter · Rxll
 - **Wiring (first pass):** 32 connected wire groups from 164 runs; labelled ends: 552 mm → WBS, USED ON, MaTL -, [SSTocKo]; 105 mm → Low PASS, 18 dB | OCTIVE; 89 mm → -109A; 88 mm → WAAD-BeCk, HiGh PASS, LTD:; 80 mm → High PASS, 18d8 /OCTIve
 
-Every curve, box, word and wire group: [1977 - 464-01-001 - HIGH PASS - LOW PASS FILTER FUNCTIONAL DIAGRAM - DRN DNM - ISS 1 (traced).json](../SCHEMATICS/1977%20-%20464-01-001%20-%20HIGH%20PASS%20-%20LOW%20PASS%20FILTER%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20DNM%20-%20ISS%201%20(traced).json) (the CAD file: `1977 - 464-01-001 - HIGH PASS - LOW PASS FILTER FUNCTIONAL DIAGRAM - DRN DNM - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 464-01-001 - HIGH PASS - LOW PASS FILTER FUNCTIONAL DIAGRAM - DRN DNM - ISS 1 (traced).json](../SCHEMATICS/1977%20-%20464-01-001%20-%20HIGH%20PASS%20-%20LOW%20PASS%20FILTER%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20DNM%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1977 - 464-01-001 - HIGH PASS - LOW PASS FILTER FUNCTIONAL DIAGRAM - DRN DNM - ISS 1 (traced).dxf`).
 
 ## Full text
 

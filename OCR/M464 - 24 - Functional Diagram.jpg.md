@@ -15,6 +15,20 @@ Wiki page: [M464](../../../../PAGES/M464.md)
 - **Size:** 72,511 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** functional, size B (assumed) 432 × 287 mm, 900 × 599 px traced (0.480 mm/px)
+- **Ink extent:** 5–432 mm across, 0–241 mm up
+- **Outlines:** line 109 rings, 1,451 straight (6,604 mm) / 195 curved (532 mm); text 71 rings, 565 straight (988 mm) / 204 curved (553 mm); tb 14 rings, 97 straight (327 mm) / 14 curved (33.3 mm)
+- **Centre lines:** 2,743 paths (24 closed); straight 5,136 mm, curved 65.2 mm; horizontal 2,405 mm, vertical 1,054 mm, diagonal 1,676 mm
+- **Circles and arcs:** 1 circles, 5 arcs; largest r 4.3 @ (179.6, 217.4)
+- **Closed boxes:** 25 (3 in the title block); named: Low Pass octive
+- **Words (OCR):** 25 in 22 lines: LF cut · INSERT · HF cut · Output · Low Pass · Hich PASs · octive · CUT · HF cut · WBS WAAD-BeCk · Bybtema LTD_ · DRM:
+- **Title block:** (268, 3)–(381, 54) mm: WBS WAAD-BeCk · DRM: · DATE · FEB 22 · HiGH PASS Low_PASS FILIer · M464 · CKD · SCALE · Ruu · FUNCTIONAL Diaoram · TOLS · 464 -01-001
+- **Wiring (first pass):** 22 connected wire groups from 178 runs; labelled ends: 606 mm → DRM:, DATE, CKD; 138 mm → Hich PASs, Low Pass; 68 mm → Hich PASs; 54 mm → WBS; 22 mm → LTD_, Bybtema
+
+Every curve, box, word and wire group: [M464 - 24 - Functional Diagram (traced).json](../SCHEMATICS/M464%20-%2024%20-%20Functional%20Diagram%20%28traced%29.json) (the CAD file: `M464 - 24 - Functional Diagram (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 5 words corrected)

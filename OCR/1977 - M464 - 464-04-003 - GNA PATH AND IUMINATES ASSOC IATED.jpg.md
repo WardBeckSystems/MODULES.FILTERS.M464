@@ -24,7 +24,7 @@ Wiki page: [M464](../../../../PAGES/M464.md)
 - **Words (OCR):** 135 in 74 lines: WBS · M464 · HIGH: FREQUENCY CUT switch SW2: · A]lows · select one · even · di screte cut-off · frequenc ies at the · high · end · the audio spectrum; The · ibration defines
 - **Title block:** (171, 3)–(393, 288) mm: WBS · M464 · HIGH: FREQUENCY CUT switch SW2: · A]lows · select one · even · di screte cut-off · frequenc ies at the · high · end · the audio spectrum; The · ibration defines · the 3 · corner point. · 
 
-Every curve, box, word and wire group: [1977 - M464 - 464-04-003 - GNA PATH AND IUMINATES ASSOC IATED (traced).json](../MECHANICAL/1977%20-%20M464%20-%20464-04-003%20-%20GNA%20PATH%20AND%20IUMINATES%20ASSOC%20IATED%20(traced).json) (the CAD file: `1977 - M464 - 464-04-003 - GNA PATH AND IUMINATES ASSOC IATED (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M464 - 464-04-003 - GNA PATH AND IUMINATES ASSOC IATED (traced).json](../MECHANICAL/1977%20-%20M464%20-%20464-04-003%20-%20GNA%20PATH%20AND%20IUMINATES%20ASSOC%20IATED%20%28traced%29.json) (the CAD file: `1977 - M464 - 464-04-003 - GNA PATH AND IUMINATES ASSOC IATED (traced).dxf`).
 
 ## Full text
 

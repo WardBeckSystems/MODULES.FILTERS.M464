@@ -29,7 +29,7 @@ Wiki page: [M464](../../../../PAGES/M464.md)
 - **Words (OCR):** 14 in 13 lines: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M464 · HIGIPass-LO PASS · FlLTER · WBS
 - **Title block:** (168, 0)–(276, 429) mm: WBS · WBS · WBS · WBS · WBS · WBS · WBS · WBS · M464 · HIGIPass-LO PASS · FlLTER · WBS · WBS
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p1 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p1%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p1 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p1 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p1%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p1 (traced).dxf`).
 
 ### Page 2
 
@@ -38,7 +38,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p1 (traced).j
 - **Outlines:** line 103 rings, 1,513 straight (3,284 mm) / 254 curved (353 mm); text 166 rings, 1,997 straight (2,454 mm) / 452 curved (694 mm)
 - **Words (OCR):** 15 in 8 lines: WAAD-BECK SYSTEMS LTD · WES 841 PAOGRFSS AVENUE; SCAADOROUGH, ONTAAIO M1H2x4 · teLEX: 06-23469 · TFLEPHONE: 4181438-6550 · M464 · HIGH PASS' LOw PASS · FILTER · (IFVIGN AND MANUFACTURE DF
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p2 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p2%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p2 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p2 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p2%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p2 (traced).dxf`).
 
 ### Page 3
 
@@ -48,7 +48,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p2 (traced).j
 - **Words (OCR):** 70 in 42 lines: WARO-BECX SYSTEms LTD · TABLE 0F CONTENIS · M464 HIGH · PAss-LON PASS · FILTER · SECTION · PAGE · Warranty · Technica | Da ta · T-1 · Circuit Description · 2-1 Lo 2-2
 - **Title block:** (8, 60)–(272, 425) mm: WARO-BECX SYSTEms LTD · TABLE 0F CONTENIS · M464 HIGH · PAss-LON PASS · FILTER · SECTION · PAGE · Warranty · Technica | Da ta · T-1 · Circuit Description · 2-1 Lo 2-2 · Frequency Response · 3-1 · Part
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p3 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p3%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p3 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p3 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p3%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p3 (traced).dxf`).
 
 ### Page 4
 
@@ -58,7 +58,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p3 (traced).j
 - **Words (OCR):** 216 in 120 lines: WAAD-BECK · Systems LTD · W'A R R 4 N T Y · A11 Ward-Beck Systems · Ltd. · products are · warranted · against · de Fective materials · and workmanship for period of one · from date of · sh ipmenl;
 - **Title block:** (17, 79)–(267, 423) mm: WAAD-BECK · Systems LTD · W'A R R 4 N T Y · A11 Ward-Beck Systems · Ltd. · products are · warranted · against · de Fective materials · and workmanship for period of one · from date of · sh ipmenl; · y
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p4 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p4%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p4 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p4 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p4%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p4 (traced).dxf`).
 
 ### Page 5
 
@@ -68,7 +68,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p4 (traced).j
 - **Dots (junctions):** 1
 - **Words (OCR):** 145 in 81 lines: WAAD-BECK Systems LtD · TECHNICAL DatA · 0464 HIGH · Pass-LoW PAss_FILTER · Ga in: · Unity. · Frequency Response: · 40 .25 dk · from · 20 Hz to · 20 · kHz (with
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p5 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p5%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p5 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p5 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p5%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p5 (traced).dxf`).
 
 ### Page 6
 
@@ -78,7 +78,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p5 (traced).j
 - **Words (OCR):** 303 in 118 lines: WAAD-BECK · SYSTEMS LTD_ · CIRCUIT DESCR(PTION · M464 · HIGh PASS-LOM · PasS FILIER · Inpul · The · input s igna 1 enters · the M464 · modu]e vid · pins and 0 f
 - **Title block:** (9, 400)–(118, 424) mm: WAAD-BECK · SYSTEMS LTD_
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p6 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p6%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p6 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p6 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p6%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p6 (traced).dxf`).
 
 ### Page 7
 
@@ -88,7 +88,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p6 (traced).j
 - **Words (OCR):** 145 in 61 lines: WAAD-BECK systems LTD · CIRCUII DESCRIPIION · M464 HIGH PAss-LoW Pass · FILIER · Output · The · output 0f · Sw4 is connected · directly the 4-1094 output · to · amplifier The · actively ba Taneed output the 4-109a 15
 - **Title block:** (8, 400)–(116, 424) mm: WAAD-BECK systems LTD
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p7 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p7%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p7 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p7 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p7%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p7 (traced).dxf`).
 
 ### Page 8
 
@@ -99,7 +99,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p7 (traced).j
 - **Words (OCR):** 35 in 28 lines: SystemS LTD; · WAAD-BECK · FREQUENCY · RESPONSE_CHARACTERISTICS · M464_HIGIPAsS-Low PASS FILIER · OR · ~12' · -15 · 31 · -18 · -21 · Low
 - **Title block:** (9, 401)–(117, 425) mm: SystemS LTD; · WAAD-BECK
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p8 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p8%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p8 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p8 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p8%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p8 (traced).dxf`).
 
 ### Page 9
 
@@ -109,7 +109,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p8 (traced).j
 - **Words (OCR):** 149 in 117 lines: WAAD-BECK SysteMS LTD; · PARIS LIST · M464 HIGHILON_PAsS FILTER_MODULE · PART · DESCRIPTIQN · MFG · ME G PART · NUMBER · C1 · Capacitor 22 uF/ 25 · sjemens · B41313-A5226-2
 - **Title block:** (10, 56)–(232, 425) mm: WAAD-BECK SysteMS LTD; · PARIS LIST · M464 HIGHILON_PAsS FILTER_MODULE · PART · DESCRIPTIQN · MFG · ME G PART · C1 · Capacitor 22 uF/ 25 · sjemens · C2 · c3 · C4 · C5 · 33 uF/10 VV · Kemet · C6 · C7 ·
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p9 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p9%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p9 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p9 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p9%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p9 (traced).dxf`).
 
 ### Page 10
 
@@ -118,7 +118,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p9 (traced).j
 - **Outlines:** line 223 rings, 1,984 straight (4,000 mm) / 377 curved (534 mm); text 534 rings, 4,354 straight (5,019 mm) / 1,225 curved (1,851 mm)
 - **Words (OCR):** 86 in 77 lines: WAAD-BECK SYStems LTD · PARTS · LISI · M464 · PASS FILTER MODULE · DESCRIPTION · PART · MFG · MFG · PART NUMBER · CRI · Diode
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p10 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p10%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p10 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p10 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p10%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p10 (traced).dxf`).
 
 ### Page 11
 
@@ -127,7 +127,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p10 (traced).
 - **Outlines:** line 200 rings, 1,768 straight (3,805 mm) / 356 curved (492 mm); text 501 rings, 4,163 straight (4,812 mm) / 1,212 curved (1,778 mm)
 - **Words (OCR):** 84 in 78 lines: WARD-BECK systems LtD · PARTS · LIST · M464_HIGHLON PASS FILIER MODULE · PART DESCR IPT[ON · MFG · MFG PART · NUMBER · R21 · Resistor · 620 · Philips
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p11 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p11%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p11 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p11 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p11%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p11 (traced).dxf`).
 
 ### Page 12
 
@@ -138,7 +138,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p11 (traced).
 - **Words (OCR):** 83 in 77 lines: WARD-BECK systemS · LTD · PARTS LISI · M464 · HIGHLLOV PAsS FILTER · MQDULE · PARI DESCRIPTION · MFG · MFG PART · NUMBER · R5 3 · Resistor
 - **Title block:** (8, 404)–(116, 428) mm: WARD-BECK systemS
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p12 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p12%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p12 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p12 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p12%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p12 (traced).dxf`).
 
 ### Page 13
 
@@ -148,7 +148,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p12 (traced).
 - **Words (OCR):** 86 in 80 lines: WAAD-BECK SYSTEmS LTD · PARTS LIST · M464 HIGh/Low PASS · FILTER · MODULE · PART · DESCRIPTION · MFG · MFG · FARI_NUMBER · R85 · Resistor
 - **Title block:** (7, 31)–(231, 425) mm: WAAD-BECK SYSTEmS LTD · PARTS LIST · M464 HIGh/Low PASS · FILTER · MODULE · PART · DESCRIPTION · MFG · MFG · R85 · Resistor · 1/8w · 560 · Philips · R86 · 2k4 · R87 · 18K · R88 · 8k? · R89 · 2k7 · R90
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p13 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p13%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p13 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p13 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p13%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p13 (traced).dxf`).
 
 ### Page 14
 
@@ -158,7 +158,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p13 (traced).
 - **Closed boxes:** 2
 - **Words (OCR):** 31 in 24 lines: WAAD-BECK Systems LTD_ · PARIS LIST · HIGHZLOW PASS FILTER · MODULE · M46.4 · PART DESCRIPT[ON · MFG · MFG PART · NUMBER · Z1 · Integrated' circuit · Nationa |
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p14 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p14%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p14 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p14 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p14%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p14 (traced).dxf`).
 
 ### Page 15
 
@@ -167,7 +167,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p14 (traced).
 - **Outlines:** line 88 rings, 1,075 straight (2,607 mm) / 165 curved (207 mm); text 68 rings, 584 straight (708 mm) / 126 curved (193 mm)
 - **Words (OCR):** 6 in 3 lines: WAAD-BECK SYSTEMS LTD_ · 4-109 AMPLIFIER SERIES · 4-109
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p15 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p15%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p15 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p15 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p15%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p15 (traced).dxf`).
 
 ### Page 16
 
@@ -178,7 +178,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p15 (traced).
 - **Words (OCR):** 198 in 109 lines: WAAD-BECK SYSTEMS LTD · DFSCRIPIION · 4-109 · AMPLIFIERSERIES · The 4-109 series 0 f · amplifiers are · printed circuit board · units · which are · utilized as · interna] · component in
 - **Title block:** (9, 307)–(265, 425) mm: WAAD-BECK SYSTEMS LTD · DFSCRIPIION · 4-109 · AMPLIFIERSERIES · The 4-109 series 0 f · amplifiers are · printed circuit board · units · which are · utilized as · interna] · component in · certa in · W
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p16 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p16%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p16 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p16 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p16%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p16 (traced).dxf`).
 
 ### Page 17
 
@@ -189,7 +189,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p16 (traced).
 - **Words (OCR):** 197 in 82 lines: WAAD-BECK SYSTEMS LTD · DESCRIPTION · 4-109 AMPLIFIER_SERIES · The two · amplifier sections · of integrated circuit 21 function as · the · input · buffer and · voltage ga in devices 0 f the 4-109 units · The · inputs of 2I may
 - **Title block:** (9, 402)–(137, 426) mm: WAAD-BECK SYSTEMS LTD
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p17 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p17%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p17 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p17 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p17%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p17 (traced).dxf`).
 
 ### Page 18
 
@@ -199,7 +199,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p17 (traced).
 - **Words (OCR):** 103 in 86 lines: WAAD-BECK SystemS LTD; · PArts LIST · 4-109 · AMPLIFIER SERIES · 4-109 · PART DESCRIPIION · MFG · MFG PART NUMBER · cI · Capacitor 1000 pF · Aselco · cQ92-MC-102m
 - **Title block:** (9, 403)–(117, 427) mm: WAAD-BECK SystemS LTD;
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p18 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p18%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p18 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p18 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p18%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p18 (traced).dxf`).
 
 ### Page 19
 
@@ -208,7 +208,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p18 (traced).
 - **Outlines:** line 246 rings, 2,090 straight (4,326 mm) / 387 curved (547 mm); text 480 rings, 3,984 straight (4,655 mm) / 1,073 curved (1,537 mm)
 - **Words (OCR):** 87 in 84 lines: WAAD-BECK Systems LTD_ · PARTS LIST · 4-109 · AMPLILIER_SERIES · 4-109 · PART · DESCRIPIION · MEG · MFG · PART NUMBER · RI · Resistor
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p19 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p19%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p19 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p19 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p19%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p19 (traced).dxf`).
 
 ### Page 20
 
@@ -217,7 +217,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p19 (traced).
 - **Outlines:** line 159 rings, 1,848 straight (4,178 mm) / 309 curved (430 mm); text 663 rings, 5,061 straight (5,887 mm) / 1,493 curved (2,301 mm)
 - **Words (OCR):** 92 in 75 lines: WAAD-BECK SYSTEMS LTD · PARTS LIST · 4-109 AMPLIFIER SERIES · 4-109 · PART DESCRIPTION · MFG · MFG PART NUMBER · R36 · Resistor · 270 · Philips · R37
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p20 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p20%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p20 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p20 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p20%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p20 (traced).dxf`).
 
 ### Page 21
 
@@ -227,7 +227,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p20 (traced).
 - **Words (OCR):** 111 in 86 lines: WAAD-BECK systemS LTD; · PARTS · LIST · 4-109 · AMPL IEIER SERIES · 4-109B · AII · parts 45 · per · 4-109 except noted · below · a5
 - **Title block:** (9, 400)–(118, 424) mm: WAAD-BECK systemS LTD;
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p21 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p21%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p21 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p21 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p21%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p21 (traced).dxf`).
 
 ### Page 22
 
@@ -237,7 +237,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p21 (traced).
 - **Words (OCR):** 65 in 47 lines: WARD-BECK systems · LTD · PARTS · LIST · 4-109 AMPLIFLER SERIES · 4-109F · A11 parts as · per · 4-109 exccpt · noted · be low · PART DESCRIPTION
 - **Title block:** (9, 402)–(118, 426) mm: WARD-BECK systems
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p22 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p22%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p22 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p22 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p22%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p22 (traced).dxf`).
 
 ### Page 23
 
@@ -248,7 +248,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p22 (traced).
 - **Words (OCR):** 136 in 79 lines: WBS · M464 · HiGH FREQUENCY CUT · Swi tch SW2: Aows · lect one · Teven · di screte cut-off · frequenc · the · igh · 10k · end of   the audio
 - **Title block:** (171, 3)–(394, 288) mm: WBS · M464 · HiGH FREQUENCY CUT · Swi tch SW2: Aows · lect one · Teven · di screte cut-off · frequenc · the · igh · 10k · end of   the audio · spectrum_ The · ibration def nes · the · corner point. · 
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p23 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p23%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p23 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p23 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p23%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p23 (traced).dxf`).
 
 ### Page 24
 
@@ -262,7 +262,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p23 (traced).
 - **Title block:** (130, 4)–(381, 57) mm: MaTL _ · ISSToo CKD · USED ON · WBS WARD-BECK · DRN: · DNM · M464 · DATE · FeB, 77 · FINISH · Rxui · HIGH PASS · CKD: · FUNCTIONAL · ISCALE · TOLs · 464-01-001
 - **Wiring (first pass):** 18 connected wire groups from 92 runs; labelled ends: 111 mm → -109A; 105 mm → Low PASS, 18 dB; 90 mm → LTD_, WARD-BECK, HIGH PASS; 80 mm → 18d8 /Octive; 80 mm → Low PASS, 18 dB
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p24 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p24%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p24 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p24 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p24%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p24 (traced).dxf`).
 
 ### Page 25
 
@@ -275,7 +275,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p24 (traced).
 - **Words (OCR):** 123 in 103 lines: CUT · high FREOLENcy CUT · AI PASS · PZSB · Low · PASS · 25Y · R32 · Rer · 88 · RESiSToRS · 873
 - **Title block:** (349, 0)–(401, 28) mm: WBS WARD · GEB · High PAsS Lot · ISCALE · ToL5 · 40 4
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p25 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p25%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p25 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p25 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p25%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p25 (traced).dxf`).
 
 ### Page 26
 
@@ -287,7 +287,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p25 (traced).
 - **Words (OCR):** 194 in 166 lines: R1s22k · RS ZEK · Rao Bzo · ~c633/10 · Rig @K8 · CRii_ek · 33/i8c12- · ~a33/0 · Re JSk · RIg Ekc · ~5e3/10 · Rio Jek
 - **Title block:** (67, 7)–(390, 286) mm: Ri7 · ~c7220p · 5k · 620 · RIS · Ri? · Sw2 wBs · OF · wBs_ -005 · DSi · 22 · LED · with · LA3o| · SuM · 5w4 · FLv/7 · R36 4M · 318 · 2.2E To 2E7 · R33540 · 0i · '98 · ARE Te · R35JM · R3442 · 47/35 · 
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p26 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p26%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p26 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p26 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p26%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p26 (traced).dxf`).
 
 ### Page 27
 
@@ -299,7 +299,7 @@ Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p26 (traced).
 - **Dots (junctions):** 1
 - **Words (OCR):** 24 in 22 lines: INPUT · 23 · SHIELD GND · 13 · 10 · 11 · 12 · 13 · 14 · 15 · uutput · 16
 
-Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p27 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p27%20(traced).json) (the CAD file: `1976 - M464 - HP LP Filter p27 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - HP LP Filter p27 (traced).json](../MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter%20p27%20%28traced%29.json) (the CAD file: `1976 - M464 - HP LP Filter p27 (traced).dxf`).
 
 ## Full text
 

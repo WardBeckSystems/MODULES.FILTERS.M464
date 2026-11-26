@@ -31,7 +31,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (349, 17)–(412, 40) mm: WBSS WARD-BeCk eyateme Lr · 0404 · DATE Hov76 · High Pass Low PASS · SCALL · SchematIC
 - **Wiring (first pass):** 131 connected wire groups from 937 runs, 2 dotted junctions; labelled ends: 311 mm → ResiSToRS; 233 mm → R27; 199 mm → Iso/6, RIio, Isok, R2s; 160 mm → 2i5; 120 mm → 2E2
 
-Every curve, box, word and wire group: [1976 - M464 - DOC - 464-02-001 - TWO COMPONENTS WITH THE PARALLEL SUM EQUALLING THE (traced).json](../SCHEMATICS/1976%20-%20M464%20-%20DOC%20-%20464-02-001%20-%20TWO%20COMPONENTS%20WITH%20THE%20PARALLEL%20SUM%20EQUALLING%20THE%20(traced).json) (the CAD file: `1976 - M464 - DOC - 464-02-001 - TWO COMPONENTS WITH THE PARALLEL SUM EQUALLING THE (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - DOC - 464-02-001 - TWO COMPONENTS WITH THE PARALLEL SUM EQUALLING THE (traced).json](../SCHEMATICS/1976%20-%20M464%20-%20DOC%20-%20464-02-001%20-%20TWO%20COMPONENTS%20WITH%20THE%20PARALLEL%20SUM%20EQUALLING%20THE%20%28traced%29.json) (the CAD file: `1976 - M464 - DOC - 464-02-001 - TWO COMPONENTS WITH THE PARALLEL SUM EQUALLING THE (traced).dxf`).
 
 ## Full text
 

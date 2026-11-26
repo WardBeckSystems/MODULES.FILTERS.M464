@@ -20,7 +20,7 @@ Wiki page: [M464](../../../../PAGES/M464.md)
 - **Words (OCR):** 101 in 53 lines: WBS · M46 4 · of eleven discrete cul-off Frequencles the high · AToxs · select one · end of the audio · The calibration defines · thc · corner poinE · Tope · dB / octave · 500
 - **Title block:** (147, 6)–(328, 315) mm: WBS · M46 4 · of eleven discrete cul-off Frequencles the high · AToxs · select one · end of the audio · The calibration defines · thc · corner poinE · Tope · dB / octave · 500 · 150 220 330 · 500 · Lo
 
-Every curve, box, word and wire group: [1976 - M464 - 464-04-003 - PASS-LO PASS FILTER (traced).json](../MECHANICAL/1976%20-%20M464%20-%20464-04-003%20-%20PASS-LO%20PASS%20FILTER%20(traced).json) (the CAD file: `1976 - M464 - 464-04-003 - PASS-LO PASS FILTER (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - 464-04-003 - PASS-LO PASS FILTER (traced).json](../MECHANICAL/1976%20-%20M464%20-%20464-04-003%20-%20PASS-LO%20PASS%20FILTER%20%28traced%29.json) (the CAD file: `1976 - M464 - 464-04-003 - PASS-LO PASS FILTER (traced).dxf`).
 
 ## Full text
 

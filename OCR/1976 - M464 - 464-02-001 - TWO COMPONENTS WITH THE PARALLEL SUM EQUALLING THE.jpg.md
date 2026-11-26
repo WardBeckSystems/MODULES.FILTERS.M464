@@ -28,7 +28,7 @@ Wiki page: [M464](../../../../PAGES/M464.md)
 - **Title block:** (349, 0)–(387, 28) mm: WBS · Nol 76 · Eo · ESCALE
 - **Wiring (first pass):** 127 connected wire groups from 931 runs; labelled ends: 243 mm → VSED Oh; 232 mm → Rze; 203 mm → C22, RZc, Rmio, Isok; 176 mm → 022; 148 mm → 47/35
 
-Every curve, box, word and wire group: [1976 - M464 - 464-02-001 - TWO COMPONENTS WITH THE PARALLEL SUM EQUALLING THE (traced).json](../SCHEMATICS/1976%20-%20M464%20-%20464-02-001%20-%20TWO%20COMPONENTS%20WITH%20THE%20PARALLEL%20SUM%20EQUALLING%20THE%20(traced).json) (the CAD file: `1976 - M464 - 464-02-001 - TWO COMPONENTS WITH THE PARALLEL SUM EQUALLING THE (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - 464-02-001 - TWO COMPONENTS WITH THE PARALLEL SUM EQUALLING THE (traced).json](../SCHEMATICS/1976%20-%20M464%20-%20464-02-001%20-%20TWO%20COMPONENTS%20WITH%20THE%20PARALLEL%20SUM%20EQUALLING%20THE%20%28traced%29.json) (the CAD file: `1976 - M464 - 464-02-001 - TWO COMPONENTS WITH THE PARALLEL SUM EQUALLING THE (traced).dxf`).
 
 ## Full text
 

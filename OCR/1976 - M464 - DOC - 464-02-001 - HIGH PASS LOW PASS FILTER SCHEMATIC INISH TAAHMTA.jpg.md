@@ -31,7 +31,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (346, 6)–(425, 34) mm: WBS WAAD-BeCK bysteMs LTD_ · Nov Tl · M484 · High PASS · PASS Filter · SCALE
 - **Wiring (first pass):** 118 connected wire groups from 926 runs; labelled ends: 291 mm → USED; 222 mm → R2e; 167 mm → DEz; 146 mm → 25; 112 mm → Riaf, Res?
 
-Every curve, box, word and wire group: [1976 - M464 - DOC - 464-02-001 - HIGH PASS LOW PASS FILTER SCHEMATIC INISH TAAHMTA (traced).json](../SCHEMATICS/1976%20-%20M464%20-%20DOC%20-%20464-02-001%20-%20HIGH%20PASS%20LOW%20PASS%20FILTER%20SCHEMATIC%20INISH%20TAAHMTA%20(traced).json) (the CAD file: `1976 - M464 - DOC - 464-02-001 - HIGH PASS LOW PASS FILTER SCHEMATIC INISH TAAHMTA (traced).dxf`).
+Every curve, box, word and wire group: [1976 - M464 - DOC - 464-02-001 - HIGH PASS LOW PASS FILTER SCHEMATIC INISH TAAHMTA (traced).json](../SCHEMATICS/1976%20-%20M464%20-%20DOC%20-%20464-02-001%20-%20HIGH%20PASS%20LOW%20PASS%20FILTER%20SCHEMATIC%20INISH%20TAAHMTA%20%28traced%29.json) (the CAD file: `1976 - M464 - DOC - 464-02-001 - HIGH PASS LOW PASS FILTER SCHEMATIC INISH TAAHMTA (traced).dxf`).
 
 ## Full text
 

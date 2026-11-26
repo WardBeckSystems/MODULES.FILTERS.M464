@@ -23,7 +23,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 90 in 66 lines: WBS · M464 · high FREQUENCY cut switch SwZ: · eleven ciscrete cut-e · off frequen · select cne · the · high · end · Jcio · spcctrym_ · Filter Tope
 - **Title block:** (138, 24)–(305, 318) mm: WBS · M464 · high FREQUENCY cut switch SwZ: · eleven ciscrete cut-e · off frequen · select cne · the · high · end · Jcio · spcctrym_ · Filter Tope · The calibrat · defines · the · corner point- · dB{ 
 
-Every curve, box, word and wire group: [19xx - M464 - DOC - 464-04-003 - PASS-LO PASS FILTER FRONT PANEL (traced).json](../MECHANICAL/19xx%20-%20M464%20-%20DOC%20-%20464-04-003%20-%20PASS-LO%20PASS%20FILTER%20FRONT%20PANEL%20(traced).json) (the CAD file: `19xx - M464 - DOC - 464-04-003 - PASS-LO PASS FILTER FRONT PANEL (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M464 - DOC - 464-04-003 - PASS-LO PASS FILTER FRONT PANEL (traced).json](../MECHANICAL/19xx%20-%20M464%20-%20DOC%20-%20464-04-003%20-%20PASS-LO%20PASS%20FILTER%20FRONT%20PANEL%20%28traced%29.json) (the CAD file: `19xx - M464 - DOC - 464-04-003 - PASS-LO PASS FILTER FRONT PANEL (traced).dxf`).
 
 ## Full text
 
