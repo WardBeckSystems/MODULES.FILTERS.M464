@@ -59,6 +59,12 @@ mod plugin {
         pub fn settings(&self) -> Settings {
             Settings { lf_in: self.lf_in.value(), lf: self.lf.value() as usize, hf_in: self.hf_in.value(), hf: self.hf.value() as usize }
         }
+
+        /// The same settings from plain parameter values looked up by parameter id (bool 0 / 1, int and enum as
+        /// their index): how a host outside nih-plug (the Pro Tools build) drives the DSP.
+        pub fn settings_from(v: &dyn Fn(&str) -> f32) -> Settings {
+            Settings { lf_in: (v("lf_in") > 0.5), lf: (v("lf").round() as i32) as usize, hf_in: (v("hf_in") > 0.5), hf: (v("hf").round() as i32) as usize }
+        }
     }
 
     pub struct Plugin {
@@ -122,6 +128,22 @@ mod plugin {
     impl Vst3Plugin for Plugin {
         const VST3_CLASS_ID: [u8; 16] = *b"WBS-M464-HpLpFlt";
         const VST3_SUBCATEGORIES: &'static [Vst3SubCategory] = &[Vst3SubCategory::Fx, Vst3SubCategory::Filter];
+    }
+
+    #[cfg(test)]
+    mod settings_from_tests {
+        use super::*;
+
+        #[test]
+        fn settings_from_matches_settings() {
+            let p = Params464::default();
+            let map = p.param_map();
+            let v = |id: &str| {
+                let (_, ptr, _) = map.iter().find(|(i, _, _)| i == id).expect(id);
+                unsafe { ptr.unmodulated_plain_value() }
+            };
+            assert_eq!(format!("{:?}", Params464::settings_from(&v)), format!("{:?}", p.settings()));
+        }
     }
 
     nih_export_clap!(Plugin);
