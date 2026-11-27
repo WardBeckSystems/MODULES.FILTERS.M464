@@ -3,122 +3,223 @@
  "connector": "RTO-144",
  "type": "FILTER",
  "series": "L-EFFECT",
- "contacts": "22 contacts",
+ "connectors": [
+  {
+   "name": "P1",
+   "kind": "edge",
+   "contacts": 22,
+   "rows": "1-22 (letter column left blank)",
+   "view": "rear",
+   "part": null
+  }
+ ],
  "verified": null,
- "derived": false,
- "variant_of": null,
+ "built_from": {
+  "pictures": [
+   "M464/PINOUTS/1976 - M464 - 27 - Pin Out.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M464/M464.rto144.json",
+  "sheet_agrees": "8 of 8"
+ },
  "pins": [
   {
+   "connector": "P1",
    "pin": "1",
-   "signal": "FILTER IN LEFT",
+   "ref": "1",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT A",
    "kind": "in",
-   "pair": "A1",
-   "polarity": "+",
+   "port": "INPUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M464/M464.rto144.json",
-   "page": 1
+   "read_from": [
+    "M464/PINOUTS/1976 - M464 - 27 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "FILTER-IN-LEFT +",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "2",
-   "signal": "FILTER IN LEFT",
+   "ref": "2",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT B",
    "kind": "in",
-   "pair": "A1",
-   "polarity": "-",
+   "port": "INPUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M464/M464.rto144.json",
-   "page": 1
+   "read_from": [
+    "M464/PINOUTS/1976 - M464 - 27 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "FILTER-IN-LEFT -",
+    "kind": "in",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
+   "pin": "3",
+   "ref": "3",
+   "also": null,
+   "same_row": null,
+   "signal": "INPUT SHIELD",
+   "kind": "shield",
+   "port": "INPUT",
+   "polarity": "shield",
+   "confidence": "high",
+   "read_from": [
+    "M464/PINOUTS/1976 - M464 - 27 - Pin Out.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P1",
    "pin": "15",
-   "signal": "FILTER OUT RIGHT",
+   "ref": "15",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT A",
    "kind": "out",
-   "pair": "A2",
-   "polarity": "+",
+   "port": "OUTPUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M464/M464.rto144.json",
-   "page": 1
+   "read_from": [
+    "M464/PINOUTS/1976 - M464 - 27 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Filter-OUT-RIGHT +",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "16",
-   "signal": "FILTER OUT RIGHT",
+   "ref": "16",
+   "also": null,
+   "same_row": null,
+   "signal": "OUTPUT B",
    "kind": "out",
-   "pair": "A2",
-   "polarity": "-",
+   "port": "OUTPUT",
+   "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M464/M464.rto144.json",
-   "page": 1
+   "read_from": [
+    "M464/PINOUTS/1976 - M464 - 27 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "Filter-OUT-RIGHT -",
+    "kind": "out",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "19",
+   "ref": "19",
+   "also": null,
+   "same_row": null,
    "signal": "-25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M464/M464.rto144.json",
-   "page": 1
+   "read_from": [
+    "M464/PINOUTS/1976 - M464 - 27 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VEE-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "20",
+   "ref": "20",
+   "also": null,
+   "same_row": null,
    "signal": "COMMON",
    "kind": "ground",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M464/M464.rto144.json",
-   "page": 1
+   "read_from": [
+    "M464/PINOUTS/1976 - M464 - 27 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "GND",
+    "kind": "ground",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "21",
+   "ref": "21",
+   "also": null,
+   "same_row": null,
    "signal": "+25 V",
    "kind": "power",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M464/M464.rto144.json",
-   "page": 1
+   "read_from": [
+    "M464/PINOUTS/1976 - M464 - 27 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "VCC-AUDIO",
+    "kind": "power",
+    "agrees": true
+   }
   },
   {
+   "connector": "P1",
    "pin": "22",
-   "signal": "CHASSIS",
+   "ref": "22",
+   "also": null,
+   "same_row": null,
+   "signal": "CHASSIS GROUND",
    "kind": "ground",
-   "pair": null,
+   "port": null,
    "polarity": null,
    "confidence": "high",
-   "read_from": "rto-144",
-   "file": "Engineering/RTO-144/M464/M464.rto144.json",
-   "page": 1
+   "read_from": [
+    "M464/PINOUTS/1976 - M464 - 27 - Pin Out.pinout.json"
+   ],
+   "sheet": {
+    "signal": "CHASSIS",
+    "kind": "ground",
+    "agrees": true
+   }
   }
  ],
- "straps": [],
- "power": [
+ "ports": [
   {
-   "rail": "VEE-AUDIO",
-   "style": "NEW",
-   "volts": -25,
-   "max_a": 0.2,
-   "supply": "19",
-   "ground": "20",
-   "link": 2
+   "name": "INPUT",
+   "dir": "in",
+   "pins": {
+    "+": "P1-1",
+    "-": "P1-2",
+    "shield": "P1-3"
+   }
   },
   {
-   "rail": "VCC-AUDIO",
-   "style": "NEW",
-   "volts": 25,
-   "max_a": 0.2,
-   "supply": "21",
-   "ground": "20",
-   "link": 1
+   "name": "OUTPUT",
+   "dir": "out",
+   "pins": {
+    "+": "P1-15",
+    "-": "P1-16"
+   }
   }
  ],
- "sources": [
-  "Engineering/RTO-144/M464/M464.rto144.json"
- ]
+ "inserts": [],
+ "straps": [],
+ "conflicts": [],
+ "to_check": []
 }
