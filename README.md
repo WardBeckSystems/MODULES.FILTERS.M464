@@ -151,6 +151,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbG9qNGpGNWhvRGM/view?resourcekey=0-5H4EGSIGPpl9YXGXebjKcw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbG9qNGpGNWhvRGM&resourcekey=0-5H4EGSIGPpl9YXGXebjKcw" width="240" alt="1976 - M464 - 464-04-003 - PASS-LO PASS FILTER.jpg"></a><br><sub>1976|9 · 464-04-003 - PASS-LO PASS FILTER · <a href="MECHANICAL/1976%20-%20M464%20-%20464-04-003%20-%20PASS-LO%20PASS%20FILTER%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMzd6clc4NmloWnc/view?resourcekey=0-_XRSxxOosfvR8U1NMD6Xsw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMzd6clc4NmloWnc&resourcekey=0-_XRSxxOosfvR8U1NMD6Xsw" width="240" alt="1977 - M464 - 464-04-003 - GNA PATH AND IUMINATES ASSOC IATED.jpg"></a><br><sub>1977|10 · 464-04-003 - GNA PATH AND IUMINATES ASSOC IATED · <a href="MECHANICAL/1977%20-%20M464%20-%20464-04-003%20-%20GNA%20PATH%20AND%20IUMINATES%20ASSOC%20IATED%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZkR4U2c3NlRVQXc/view?resourcekey=0-kB3tcmFJNcB8YZRw9uLLUw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZkR4U2c3NlRVQXc&resourcekey=0-kB3tcmFJNcB8YZRw9uLLUw" width="240" alt="19xx - M464 - DOC - 464-04-003 - PASS-LO PASS FILTER FRONT PANEL.jpg"></a><br><sub>19xx - M464 - DOC - 464-04-003 - PASS-LO PASS FILTER FRONT PANEL</sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M464.stl`](MECHANICAL/M464.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M464)
+
+- **Size:** 53.54 × 199.71 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 6 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M464 - front panel.svg`)
+- the drawn panel is 0.21 wide to high, the size 0.27: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M464.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
