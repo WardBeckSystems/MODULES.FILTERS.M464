@@ -1,0 +1,224 @@
+{
+ "module": "M464",
+ "title": "M464 HIGH-PASSZLOW-PASS FILTER",
+ "source": {
+  "file": "MANUALS/19xx - M464 - DOC - WBS sales 20.jpg",
+  "page": 1
+ },
+ "ocr_quality": 0.92,
+ "read": "OCR of the technical data sheet; usual OCR slips put right, the rest as read: check against the page",
+ "specifications": [
+  {
+   "name": "Gain",
+   "key": "gain",
+   "text": "Unity _ ±0.25 dB from 20 Hz to 20 kHz (with both insert switches in bypass position)",
+   "quantities": [
+    {
+     "value": 0.25,
+     "unit": "dB",
+     "tolerance": true
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Frequency response",
+   "key": "frequency_response",
+   "text": "",
+   "items": [
+    {
+     "name": "Equalization",
+     "text": "High frequency and Tow frequency Cut _ choice of 11 discrete frequencies each. Frequency tolerance: +5% Slope: 18 dBloctave",
+     "quantities": [
+      {
+       "value": 5,
+       "unit": "%"
+      }
+     ],
+     "key": "equalization"
+    }
+   ]
+  },
+  {
+   "name": "Noise",
+   "key": "noise",
+   "text": "-80 dBm. (20 Hz to 20 kHz)",
+   "quantities": [
+    {
+     "value": -80,
+     "unit": "dBm"
+    },
+    {
+     "value": 20,
+     "unit": "Hz"
+    },
+    {
+     "value": 20,
+     "unit": "kHz"
+    }
+   ]
+  },
+  {
+   "name": "Harmonic distortion",
+   "key": "harmonic_distortion",
+   "text": "Less than 0.35% THD from 30 Hz to 15 kHz at +24 dBm input Less than 0.1 % at kHz at +28 dBm input level",
+   "quantities": [
+    {
+     "value": 0.35,
+     "unit": "%"
+    },
+    {
+     "value": 30,
+     "unit": "Hz"
+    },
+    {
+     "value": 15,
+     "unit": "kHz"
+    },
+    {
+     "value": 24,
+     "unit": "dBm"
+    },
+    {
+     "value": 0.1,
+     "unit": "%"
+    },
+    {
+     "value": 28,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Source impedance",
+   "key": "source_impedance",
+   "text": "600 ohms maximum, ba lanced/unba lanced.",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Input impedance",
+   "key": "input_impedance",
+   "text": "30k ohms +10% _ baLanced",
+   "quantities": [
+    {
+     "value": 10,
+     "unit": "%"
+    }
+   ]
+  },
+  {
+   "name": "Input level",
+   "key": "input_level",
+   "text": "-10 to +8 dBm nomina ] maximum_ +30 dBm",
+   "quantities": [
+    {
+     "from": -10,
+     "to": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Output impedance",
+   "key": "output_impedance",
+   "text": "Less than 100 ohms",
+   "quantities": [
+    {
+     "value": 100,
+     "unit": "ohms"
+    }
+   ]
+  },
+  {
+   "name": "Load impedance",
+   "key": "load_impedance",
+   "text": "600 ohms minimum, ba Tanced_ Output Leve] -10 to +8 dBm nomina ] maximum_ +30 dBm",
+   "quantities": [
+    {
+     "value": 600,
+     "unit": "ohms"
+    },
+    {
+     "from": -10,
+     "to": 8,
+     "unit": "dBm"
+    },
+    {
+     "value": 30,
+     "unit": "dBm"
+    }
+   ]
+  },
+  {
+   "name": "Phasing",
+   "key": "phasing",
+   "text": "Low number terminals of input and output are in phase"
+  },
+  {
+   "name": "Power requirements",
+   "key": "power_requirement",
+   "text": "Ambient Temperature: +25 volts dc, 120 ma maximum 0 to 60 degrees Celsius 1.6\" wide X 7\" high X 6.5 \" deep (41 mm X 178 mm X 165 mm)",
+   "quantities": [
+    {
+     "value": 25,
+     "unit": "volts dc"
+    },
+    {
+     "value": 120,
+     "unit": "ma"
+    },
+    {
+     "from": 0,
+     "to": 60,
+     "unit": "degrees Celsius"
+    },
+    {
+     "value": 1.6,
+     "unit": "\""
+    },
+    {
+     "value": 7,
+     "unit": "\""
+    },
+    {
+     "value": 6.5,
+     "unit": "\""
+    },
+    {
+     "value": 41,
+     "unit": "mm"
+    },
+    {
+     "value": 178,
+     "unit": "mm"
+    },
+    {
+     "value": 165,
+     "unit": "mm"
+    }
+   ]
+  }
+ ],
+ "also_in": [
+  {
+   "file": "MANUALS/1976 - M464 - HP LP Filter (2).pdf",
+   "page": 5
+  }
+ ]
+}

@@ -13,6 +13,123 @@ Ward-Beck Systems M464, 1976|9. Wiki page: [M464 on WBSps.ca](https://wardbecksy
 | [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 6 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 83 |
 
+<!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
+
+**On the WBSps forum (2006|39 - 2014|47):** [9 topics](FORUM.md): what owners and technicians said about it.
+
+## Specifications
+
+From the technical data sheet: [19xx - M464 - DOC - WBS sales 20.jpg](MANUALS/19xx%20-%20M464%20-%20DOC%20-%20WBS%20sales%2020.jpg) page 1 (read by OCR; check against the page). As data: [`Specifications.json`](Specifications.json).
+
+| | |
+|---|---|
+| **Gain** | Unity _ ±0.25 dB from 20 Hz to 20 kHz (with both insert switches in bypass position) |
+| **Frequency response** |  |
+| &nbsp;&nbsp;Equalization | High frequency and Tow frequency Cut _ choice of 11 discrete frequencies each. Frequency tolerance: +5% Slope: 18 dBloctave |
+| **Noise** | -80 dBm. (20 Hz to 20 kHz) |
+| **Harmonic distortion** | Less than 0.35% THD from 30 Hz to 15 kHz at +24 dBm input Less than 0.1 % at kHz at +28 dBm input level |
+| **Source impedance** | 600 ohms maximum, ba lanced/unba lanced. |
+| **Input impedance** | 30k ohms +10% _ baLanced |
+| **Input level** | -10 to +8 dBm nomina ] maximum_ +30 dBm |
+| **Output impedance** | Less than 100 ohms |
+| **Load impedance** | 600 ohms minimum, ba Tanced_ Output Leve] -10 to +8 dBm nomina ] maximum_ +30 dBm |
+| **Phasing** | Low number terminals of input and output are in phase |
+| **Power requirements** | Ambient Temperature: +25 volts dc, 120 ma maximum 0 to 60 degrees Celsius 1.6&quot; wide X 7&quot; high X 6.5 &quot; deep (41 mm X 178 mm X 165 mm) |
+
+## Circuit description
+
+From [1976 - M464 - HP LP Filter.pdf](MANUALS/1976%20-%20M464%20-%20HP%20LP%20Filter.pdf) pages 6-11 (read by OCR; check against the pages). As data: [`CircuitDescription.json`](CircuitDescription.json).
+
+<details><summary>Read it</summary>
+
+M464 HIGH PASS-Lov Pass FILLER Input The inputs igna ] enters the M464 module via pins and 2 of thc edgc connector ZI and 22 serve as the preamplifier RI7 i$ part of the preamp]ificr and i$ used Lo trim the overall gain of the module to unity The prcamp output is routed to the input of the LON FREQUENCY CUT filter 4 $ well a $ to one 0 [ the norila Tly closed contacts 0 [ the LF CUT INSERT switch Sn3 LON_FREQUENCY CUT (high_pass Filter After passing through the isolation amplifier 13 the signa 1 enters thc first section of lhe high pass filter comprised of C15 SwiA and 14, and producing 6 dB/oclave attenuation A further 12 dBfoctave section consi sl so f C18 C19 SNIB, ShIc and 75 resulting in combined attenuation rale of 18. dB/octave SwI a |ows to select any one of eleven discrete cut-off frequencies ranging from 27 Hertz Lo 4 kilo Hertz The reference frequency represents thc -3 dR corner point from the nomina is igra] level The filter outpul i5 connected to one of the normally open contacts of the LF CVT INSERT switch Sw3 The output of S3 Ts routed to the input of the HIGH FREQUENCY CUt filter a $ well a5 to one of the normally closed contacts of the IF CUt INSERT switch SW4 HIGH FREQUENCY CuT (low pass) Filter As; is the case with the high pas $ filter, the Tow pa s$ filter is divided into 6 dB/octave and 12 dBloctave section, for total of 18 dB/octave The dBoctave section consists of Snza C23, and 26 while the 12 dB/octave section includes SWZB, SnZc, C27, C31 and 27 _ SW2 allows selection of any one of eleven discrete cut-off frequencies extending from 500. Hertz to 15_ kilo Hertz The reference frequency designatcs the -3 dB corner point from the nOm ina ] signa] level The filter output '15 connected to one of the norma y 'open contacts of the HF CUt INSERT switch Sn4
+
+**CIRCUII__DESCRIPIION**
+
+M464 HIGH PAss-Low Pass FILLER Output The output of Sw4 15 connected directly to the 4-109a output amplifier The actively balanced output of the 4-109 15 brought oul aL pins 15 and 16 of the edge connector INSERL Switches ad Indicators The LF CUt INSERT swilch Sw3 and thce HF CUT INSERT switch SW4 maybe selected in any desired combination The filter section inserted into the signa] path will bc indicated by the LED indicator adjacent to cach insert switch Power_Supply Decoupl ing An active power. supply decoup] ing network consisting of Q1 through Q6: provides high degree of isolation between the M464 and the +25 vo It supply ra i 1 $ Transistors 03 and Q4 served 5 current monitors and Wil7 imit the current flowing through the pass transistors Q1 and Q6 in the event that excessive power supply demarids should arise 4$ result of component failure
+
+FREQUENCY RESPONSE CHARACTERISTICS M464 HIGIL PASS-Low PASS FILLER
+
+8 2&amp; # 8
+
+Low FREQUENCY CUI
+
+10 Hz 100Hz
+
+**WIGH_FREQUENCY CUT**
+
+724 20Hz 100 Hz 1kHz '1Ok 20k 30k 40k
+
+**MFG PART NUMBER**
+
+C1 c2 C3 C4 c5 Capacitor 22 uF/25 siemens
+
+**B41313-45226-2**
+
+33 uF/10 V Kemet
+
+**T3900336M01045**
+
+C6 C7 C8 c9 C10 220 pF 4.1 pF 220 PF 6.8 pF Philips 2222-630-03221 2222-638-09478 2222-630-03221 2222-638-09688
+
+**CIT C12 C13 C14 C15**
+
+150 pF 33 uf /10 V 2222-638-70151 T3900336m01a5 Kemet 10 pF 0.04 uF, +5% Philips Aselco
+
+**2222-638-10109 WBS 13-002**
+
+C16 C17 C]8 c19 C20 0.47 uF/35 V 8.2 PF 0.04 uF = +52 0.02 uF +53 0, 47 uF/35 Kemet Philips Aselco T3904474m035a5 2222 638-09828 NBS 13-002 WBS 13-003 13904474M03545 Kemet
+
+**621 C22 C23 C24 C25**
+
+22 pF 150 ur/6 V 4000 pF +5 % 0.47 uF/35 Philips Keme l Aselco Kemet 2222-638-58229 1390E157m00645 WBS 13-005 T3904474m035a5
+
+**C26 C27 C28 C29 C30**
+
+10 pF 5000 pF 45% 0: 47 uFi35 V Philips Aselco Kemet 2222-638-10109 VBS 13 -007 T3904474m035a5 8.2 pF Philips 2222-638-09828
+
+**'C31 C32**
+
+0.01 uF 152 33 uF/io Aselco Kemet WBS 13 -004 T390133611010a5
+
+**CRI CR2 CR 3 CR4**
+
+Diode Motoro]d
+
+**DSI DS?**
+
+LCD red Fairchild
+
+**FLV 117**
+
+Transistor Texa5 Nationa 1
+
+**83 2 3 Q 4 5**
+
+Pn3645
+
+Texas Philips
+
+**RI R2 R3 R4 R5**
+
+Resistor #W.5% 15k 1k 3.3 3 TK
+
+**R6 RZ R8 R9 RI0**
+
+15k 470k T75k 75k 18k
+
+**RII R12 R13 RI4 R1S**
+
+18K 620 18K 18k 620
+
+**R16 RI7 R18 RT9 R20**
+
+5k6 Trim pot Sk Resistor #W 5 % 1K2 6k8 820 Piher Philips PT 1OV 5k
+
+</details>
+
+<!-- /module data -->
+
 ## Photos
 
 _Photographs of the module itself: front, back, inside, racked._

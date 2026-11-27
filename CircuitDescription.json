@@ -1,0 +1,137 @@
+{
+ "module": "M464",
+ "source": {
+  "file": "MANUALS/1976 - M464 - HP LP Filter.pdf",
+  "pages": [
+   6,
+   7,
+   8,
+   9,
+   10,
+   11
+  ]
+ },
+ "ocr_quality": 0.82,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": null,
+   "paragraphs": [
+    "M464 HIGH PASS-Lov Pass FILLER Input The inputs igna ] enters the M464 module via pins and 2 of thc edgc connector ZI and 22 serve as the preamplifier RI7 i$ part of the preamp]ificr and i$ used Lo trim the overall gain of the module to unity The prcamp output is routed to the input of the LON FREQUENCY CUT filter 4 $ well a $ to one 0 [ the norila Tly closed contacts 0 [ the LF CUT INSERT switch Sn3 LON_FREQUENCY CUT (high_pass Filter After passing through the isolation amplifier 13 the signa 1 enters thc first section of lhe high pass filter comprised of C15 SwiA and 14, and producing 6 dB/oclave attenuation A further 12 dBfoctave section consi sl so f C18 C19 SNIB, ShIc and 75 resulting in combined attenuation rale of 18. dB/octave SwI a |ows to select any one of eleven discrete cut-off frequencies ranging from 27 Hertz Lo 4 kilo Hertz The reference frequency represents thc -3 dR corner point from the nomina is igra] level The filter outpul i5 connected to one of the normally open contacts of the LF CVT INSERT switch Sw3 The output of S3 Ts routed to the input of the HIGH FREQUENCY CUt filter a $ well a5 to one of the normally closed contacts of the IF CUt INSERT switch SW4 HIGH FREQUENCY CuT (low pass) Filter As; is the case with the high pas $ filter, the Tow pa s$ filter is divided into 6 dB/octave and 12 dBloctave section, for total of 18 dB/octave The dBoctave section consists of Snza C23, and 26 while the 12 dB/octave section includes SWZB, SnZc, C27, C31 and 27 _ SW2 allows selection of any one of eleven discrete cut-off frequencies extending from 500. Hertz to 15_ kilo Hertz The reference frequency designatcs the -3 dB corner point from the nOm ina ] signa] level The filter output '15 connected to one of the norma y 'open contacts of the HF CUt INSERT switch Sn4"
+   ]
+  },
+  {
+   "heading": "CIRCUII__DESCRIPIION",
+   "paragraphs": [
+    "M464 HIGH PAss-Low Pass FILLER Output The output of Sw4 15 connected directly to the 4-109a output amplifier The actively balanced output of the 4-109 15 brought oul aL pins 15 and 16 of the edge connector INSERL Switches ad Indicators The LF CUt INSERT swilch Sw3 and thce HF CUT INSERT switch SW4 maybe selected in any desired combination The filter section inserted into the signa] path will bc indicated by the LED indicator adjacent to cach insert switch Power_Supply Decoupl ing An active power. supply decoup] ing network consisting of Q1 through Q6: provides high degree of isolation between the M464 and the +25 vo It supply ra i 1 $ Transistors 03 and Q4 served 5 current monitors and Wil7 imit the current flowing through the pass transistors Q1 and Q6 in the event that excessive power supply demarids should arise 4$ result of component failure",
+    "FREQUENCY RESPONSE CHARACTERISTICS M464 HIGIL PASS-Low PASS FILLER",
+    "8 2& # 8",
+    "Low FREQUENCY CUI",
+    "10 Hz 100Hz"
+   ]
+  },
+  {
+   "heading": "WIGH_FREQUENCY CUT",
+   "paragraphs": [
+    "724 20Hz 100 Hz 1kHz '1Ok 20k 30k 40k"
+   ]
+  },
+  {
+   "heading": "MFG PART NUMBER",
+   "paragraphs": [
+    "C1 c2 C3 C4 c5 Capacitor 22 uF/25 siemens"
+   ]
+  },
+  {
+   "heading": "B41313-45226-2",
+   "paragraphs": [
+    "33 uF/10 V Kemet"
+   ]
+  },
+  {
+   "heading": "T3900336M01045",
+   "paragraphs": [
+    "C6 C7 C8 c9 C10 220 pF 4.1 pF 220 PF 6.8 pF Philips 2222-630-03221 2222-638-09478 2222-630-03221 2222-638-09688"
+   ]
+  },
+  {
+   "heading": "CIT C12 C13 C14 C15",
+   "paragraphs": [
+    "150 pF 33 uf /10 V 2222-638-70151 T3900336m01a5 Kemet 10 pF 0.04 uF, +5% Philips Aselco"
+   ]
+  },
+  {
+   "heading": "2222-638-10109 WBS 13-002",
+   "paragraphs": [
+    "C16 C17 C]8 c19 C20 0.47 uF/35 V 8.2 PF 0.04 uF = +52 0.02 uF +53 0, 47 uF/35 Kemet Philips Aselco T3904474m035a5 2222 638-09828 NBS 13-002 WBS 13-003 13904474M03545 Kemet"
+   ]
+  },
+  {
+   "heading": "621 C22 C23 C24 C25",
+   "paragraphs": [
+    "22 pF 150 ur/6 V 4000 pF +5 % 0.47 uF/35 Philips Keme l Aselco Kemet 2222-638-58229 1390E157m00645 WBS 13-005 T3904474m035a5"
+   ]
+  },
+  {
+   "heading": "C26 C27 C28 C29 C30",
+   "paragraphs": [
+    "10 pF 5000 pF 45% 0: 47 uFi35 V Philips Aselco Kemet 2222-638-10109 VBS 13 -007 T3904474m035a5 8.2 pF Philips 2222-638-09828"
+   ]
+  },
+  {
+   "heading": "'C31 C32",
+   "paragraphs": [
+    "0.01 uF 152 33 uF/io Aselco Kemet WBS 13 -004 T390133611010a5"
+   ]
+  },
+  {
+   "heading": "CRI CR2 CR 3 CR4",
+   "paragraphs": [
+    "Diode Motoro]d"
+   ]
+  },
+  {
+   "heading": "DSI DS?",
+   "paragraphs": [
+    "LCD red Fairchild"
+   ]
+  },
+  {
+   "heading": "FLV 117",
+   "paragraphs": [
+    "Transistor Texa5 Nationa 1"
+   ]
+  },
+  {
+   "heading": "83 2 3 Q 4 5",
+   "paragraphs": [
+    "Pn3645",
+    "Texas Philips"
+   ]
+  },
+  {
+   "heading": "RI R2 R3 R4 R5",
+   "paragraphs": [
+    "Resistor #W.5% 15k 1k 3.3 3 TK"
+   ]
+  },
+  {
+   "heading": "R6 RZ R8 R9 RI0",
+   "paragraphs": [
+    "15k 470k T75k 75k 18k"
+   ]
+  },
+  {
+   "heading": "RII R12 R13 RI4 R1S",
+   "paragraphs": [
+    "18K 620 18K 18k 620"
+   ]
+  },
+  {
+   "heading": "R16 RI7 R18 RT9 R20",
+   "paragraphs": [
+    "5k6 Trim pot Sk Resistor #W 5 % 1K2 6k8 820 Piher Philips PT 1OV 5k"
+   ]
+  }
+ ]
+}
