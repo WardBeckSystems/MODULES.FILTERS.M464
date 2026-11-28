@@ -1,5 +1,5 @@
 # 1976 - M464 - 464-02-001 - TWO COMPONENTS WITH THE PARALLEL SUM EQUALLING THE.jpg
-Wiki page: [M464](../../../../PAGES/M464.md)
+Wiki page: [M464](../)
 
 
 - **Year:** 1976 (found in this file: "DATE NOV 76")

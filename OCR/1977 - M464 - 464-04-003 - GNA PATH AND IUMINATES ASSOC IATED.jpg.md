@@ -1,5 +1,5 @@
 # 1977 - M464 - 464-04-003 - GNA PATH AND IUMINATES ASSOC IATED.jpg
-Wiki page: [M464](../../../../PAGES/M464.md)
+Wiki page: [M464](../)
 
 
 - **Year:** 1977 (found in this file: "DATE FEB 77")

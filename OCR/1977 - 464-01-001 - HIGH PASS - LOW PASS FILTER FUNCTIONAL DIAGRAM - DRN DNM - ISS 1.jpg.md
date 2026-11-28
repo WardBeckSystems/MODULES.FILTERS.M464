@@ -1,5 +1,5 @@
 # 1977 - 464-01-001 - HIGH PASS - LOW PASS FILTER FUNCTIONAL DIAGRAM - DRN DNM - ISS 1.jpg
-Wiki page: [M464](../../../../PAGES/M464.md)
+Wiki page: [M464](../)
 
 
 - **Year:** 1977 (title block date)

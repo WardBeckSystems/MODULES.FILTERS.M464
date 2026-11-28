@@ -1,6 +1,6 @@
 # M464 High Pass Low Pass Filter · Filters
 
-Ward-Beck Systems M464, 1976|9. Wiki page: [M464 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M464.html)
+Ward-Beck Systems M464, 1976|9. Wiki page: [M464 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.FILTERS.M464-High-Pass-Low-Pass-Filter/)
 
 | Folder | What is in it | Files |
 |---|---|---|

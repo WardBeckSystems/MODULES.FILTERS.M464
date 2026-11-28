@@ -1,5 +1,5 @@
 # 19xx - M464 - Frequency Response Characteristics M464 High-Pass Low-Pass Filter.jpg
-Wiki page: [M464](../../../../PAGES/M464.md)
+Wiki page: [M464](../)
 
 
 - **Year:** unknown (title block (read by eye))

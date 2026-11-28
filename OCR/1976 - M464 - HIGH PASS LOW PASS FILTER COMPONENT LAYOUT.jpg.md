@@ -1,5 +1,5 @@
 # 1976 - M464 - HIGH PASS LOW PASS FILTER COMPONENT LAYOUT.jpg
-Wiki page: [M464](../../../../PAGES/M464.md)
+Wiki page: [M464](../)
 
 
 - **Year:** 1976 (found in this file: "DATE DEC 76")
