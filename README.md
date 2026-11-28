@@ -4,13 +4,13 @@ Ward-Beck Systems M464, 1976|9. Wiki page: [M464 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 28 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 16 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 16 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 208 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 24 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 3 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 9 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 27 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 15 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 15 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 207 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 23 |
+| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 2 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 8 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 78 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -151,6 +151,15 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKbG9qNGpGNWhvRGM/view?resourcekey=0-5H4EGSIGPpl9YXGXebjKcw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKbG9qNGpGNWhvRGM&resourcekey=0-5H4EGSIGPpl9YXGXebjKcw" width="240" alt="1976 - M464 - 464-04-003 - PASS-LO PASS FILTER.jpg"></a><br><sub>1976|9 · 464-04-003 - PASS-LO PASS FILTER · <a href="MECHANICAL/1976%20-%20M464%20-%20464-04-003%20-%20PASS-LO%20PASS%20FILTER%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMzd6clc4NmloWnc/view?resourcekey=0-_XRSxxOosfvR8U1NMD6Xsw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMzd6clc4NmloWnc&resourcekey=0-_XRSxxOosfvR8U1NMD6Xsw" width="240" alt="1977 - M464 - 464-04-003 - GNA PATH AND IUMINATES ASSOC IATED.jpg"></a><br><sub>1977|10 · 464-04-003 - GNA PATH AND IUMINATES ASSOC IATED · <a href="MECHANICAL/1977%20-%20M464%20-%20464-04-003%20-%20GNA%20PATH%20AND%20IUMINATES%20ASSOC%20IATED%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKZkR4U2c3NlRVQXc/view?resourcekey=0-kB3tcmFJNcB8YZRw9uLLUw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKZkR4U2c3NlRVQXc&resourcekey=0-kB3tcmFJNcB8YZRw9uLLUw" width="240" alt="19xx - M464 - DOC - 464-04-003 - PASS-LO PASS FILTER FRONT PANEL.jpg"></a><br><sub>19xx - M464 - DOC - 464-04-003 - PASS-LO PASS FILTER FRONT PANEL · <a href="MECHANICAL/19xx%20-%20M464%20-%20DOC%20-%20464-04-003%20-%20PASS-LO%20PASS%20FILTER%20FRONT%20PANEL%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
+## 3-D model
+
+[`MECHANICAL/M464.stl`](MECHANICAL/M464.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M464)
+
+- **Size:** 53.54 × 199.71 mm panel, 165 mm deep, 3.2 mm plate (the drawing sheet, taken as drawn 1:1)
+- **From the drawing:** 6 holes and cut-outs, 0 knobs (front panel: `MECHANICAL/M464 - front panel.svg`)
+- the drawn panel is 0.21 wide to high, the size 0.27: placed by its height
+- Made by `tools/module_models.py` (→ `MECHANICAL/M464.model.json`) and `tools/stl/make_stl.mjs` in [WBSps.ca](https://github.com/WardBeckSystems/WBSps.ca); the site makes the same STL from the same JSON.
+
 ## Schematics
 
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
@@ -160,8 +169,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKY2pYMkdMZjB4Slk/view?resourcekey=0-DDDH3_JMTr2LdWM4-GYAVw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKY2pYMkdMZjB4Slk&resourcekey=0-DDDH3_JMTr2LdWM4-GYAVw" width="240" alt="1976 - M464 - HIGH PASS LOW PASS FILTER COMPONENT LAYOUT.jpg"></a><br><sub>1976|9 · HIGH PASS LOW PASS FILTER COMPONENT LAYOUT · <a href="SCHEMATICS/1976%20-%20M464%20-%20HIGH%20PASS%20LOW%20PASS%20FILTER%20COMPONENT%20LAYOUT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKalpmNWY3Mm43cDQ/view?resourcekey=0-LPwpCBlnQDh11fW3AemyLw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKalpmNWY3Mm43cDQ&resourcekey=0-LPwpCBlnQDh11fW3AemyLw" width="240" alt="1977 - M464 - 464-01-001 - HIGH PASS LOW PASS FILTER FUNCTIONAL DIAGRAM FIMISH.jpg"></a><br><sub>1977|10 · 464-01-001 - HIGH PASS LOW PASS FILTER FUNCTIONAL DIAGRAM FIMISH · <a href="SCHEMATICS/1977%20-%20M464%20-%20464-01-001%20-%20HIGH%20PASS%20LOW%20PASS%20FILTER%20FUNCTIONAL%20DIAGRAM%20FIMISH%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1977 - 464-01-001 - HIGH PASS - LOW PASS FILTER FUNCTIONAL DIAGRAM - DRN DNM - ISS 1.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -169,8 +176,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKTzJKb3ZqdlUxckE/view?resourcekey=0-s6gnByU90w8qFfRCHAQ6Ow" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKTzJKb3ZqdlUxckE&resourcekey=0-s6gnByU90w8qFfRCHAQ6Ow" width="240" alt="1976 - M464 - 27 - Pin Out.jpg"></a><br><sub>1976|9 · 27 - Pin Out · <a href="PINOUTS/1976%20-%20M464%20-%2027%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVldzT3RfeGw3dkE/view?resourcekey=0-LD-e1QojQoGO5hIjfZ6Eww" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVldzT3RfeGw3dkE&resourcekey=0-LD-e1QojQoGO5hIjfZ6Eww" width="240" alt="1976 - M464 - P4 - Pin Out.jpg"></a><br><sub>1976|9 · P4 - Pin Out · <a href="PINOUTS/1976%20-%20M464%20-%20P4%20-%20Pin%20Out%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M464 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -222,12 +227,10 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [1977 - M464 - 464-01-001 - HIGH PASS LOW PASS FILTER FUNCTIONAL DIAGRAM FIMISH.kicad_sch](KICAD/1977%20-%20M464%20-%20464-01-001%20-%20HIGH%20PASS%20LOW%20PASS%20FILTER%20FUNCTIONAL%20DIAGRAM%20FIMISH.kicad_sch)
 - [M464 - 24 - Functional Diagram.kicad_sch](KICAD/M464%20-%2024%20-%20Functional%20Diagram.kicad_sch)
 - [M464.kicad_sym](KICAD/M464.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ## Software
 
 - [cpp](SOFTWARE/cpp)
-- [index.html](SOFTWARE/index.html)
 - [plugin](SOFTWARE/plugin): the Rust VST3 / CLAP plugin and Audio Tap insert
 
 ---
